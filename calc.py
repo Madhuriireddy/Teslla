@@ -3,6 +3,6 @@ def addition(x,y):
 def substraction(x,y):
     pass
 def multiplication(x,y):
-    pass
+    return x+y
 def division(x,y):
     pass
